@@ -6,6 +6,7 @@
   "bugs": {
     "url": "https://github.com/mozilla/page-metadata-parser/issues"
   },
+  "types": "./parser.d.ts",
   "dependencies": {},
   "devDependencies": {
     "babel": "^6.5.2",
